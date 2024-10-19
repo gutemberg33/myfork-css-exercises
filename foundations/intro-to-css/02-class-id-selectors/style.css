@@ -1,0 +1,21 @@
+
+/* Class and ID Selectors exercise 02 */
+
+.odd {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans", "sans-serif";
+}
+
+oddunique {
+    font-size: 24px;
+}
+
+#even1 {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#even2 {
+    background-color: #90ee90;
+    font-weight: bold;
+}
